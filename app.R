@@ -85,7 +85,9 @@ createBiosampleLink <- function(val, val2) {
   sprintf('<a href="https://www.ncbi.nlm.nih.gov/biosample/%s" target="_blank" class="btn btn-primary">%s</a>',val, val2)
 }
 today<- as.Date(Sys.Date())-1
-api_key<- "7aae48cbf3b0fb0e35b421316018c6204808"
+#NCBI API KEY
+api_key<- "YOUR_NCBI_API_KEY_HERE!!!"
+
 # Define UI for application \
 sidebar <- dashboardSidebar(
   collapsed = TRUE,
