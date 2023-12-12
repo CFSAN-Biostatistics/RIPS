@@ -5,6 +5,11 @@ The required libraries to run the dashboard are:
 ```
 rvest, httr, Rcurl, dplyr, shiny, data.table, DT, purr, xml2, ggplot2, lubridate, plotly, stringr, tidyr, readr, shinydashboard, rintrojs
 ```
+Running App:
+In R studio, ensure the above libraries are installed. 
+Ensure folder www exists and contains the file cfsan_logo_mod.png.
+
+Run the app.R file in R studio. 
 
 Usage:  
 To get a brief overview of the dashboard click "Press for instructions" button on the bottom right of the dashboard. 
