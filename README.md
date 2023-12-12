@@ -21,4 +21,8 @@ Details of the isolates in the cluster will display in the two seperate table be
 
 The Focal isolates are the new isolates that triggered the Rapid Report from NCBI.
 
-The Neighbor isolates are isolates closely related to the focal isolates. These are ordered by the difference in age from the focal isolate.These are also ordered by the most recent environmentmal signals followed by the clinicals.</p><br> Blue buttons are clickable
+The Neighbor isolates are isolates closely related to the focal isolates. These are ordered by the difference in age from the focal isolate.These are also ordered by the most recent environmentmal signals followed by the clinicals. 
+
+Blue buttons are clickable and link to searches within the NCBI PD browser.
+
+
