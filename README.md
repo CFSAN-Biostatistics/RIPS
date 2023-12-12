@@ -13,4 +13,12 @@ Step 1: In the top right,  select a taxon and date. Click the blue "Run" button 
 
 If a report exists for the selected day, a grey popup box will show on the bottom right, indicating the progess of the dashboard. 
 
-An ordered horizontal graph will popup on the center box containing all the clusters 
+An ordered horizontal graph will popup on the center box containing all the clusters.
+
+Step 2: Select a cluster by clicking on it. 
+
+Details of the isolates in the cluster will display in the two seperate table below.
+
+The Focal isolates are the new isolates that triggered the Rapid Report from NCBI.
+
+The Neighbor isolates are isolates closely related to the focal isolates. These are ordered by the difference in age from the focal isolate.These are also ordered by the most recent environmentmal signals followed by the clinicals.</p><br> Blue buttons are clickable
