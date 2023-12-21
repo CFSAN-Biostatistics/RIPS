@@ -3,7 +3,7 @@ RIPS is a dashboard for pathogen surveillance build upon NCBI's Rapid Reports. I
 
 The required libraries to run the dashboard are:
 ```
-rvest, httr, Rcurl, dplyr, shiny, data.table, DT, purr, xml2, ggplot2, lubridate, plotly, stringr, tidyr, readr, shinydashboard, rintrojs
+rvest, httr, Rcurl, dplyr, shiny, data.table, DT, purr, xml2, ggplot2, lubridate, plotly, stringr, tidyr, readr, shinydashboard, shinyWidgets, rintrojs
 ```
 Running App:
 In R studio, ensure the above libraries are installed. 
