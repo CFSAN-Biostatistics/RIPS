@@ -1,0 +1,2 @@
+#biosample_acc	run_acc	neighbor_biosample_acc	neighbor_run_acc	neighbor_assembly_acc	neighbor_isolate	neighbor_cluster	alleles_different	loci_in_common
+SAMN38163741	SRR26724811	SAMN25075051	SRR17656044	NULL	PDT001225823	NULL	44	3881
