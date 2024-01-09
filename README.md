@@ -5,13 +5,19 @@ The required libraries to run the dashboard are:
 ```
 rvest, httr, Rcurl, dplyr, shiny, data.table, DT, purr, xml2, ggplot2, lubridate, plotly, stringr, tidyr, readr, shinydashboard, shinyWidgets, rintrojs
 ```
-Running App:
-In R studio, ensure the above libraries are installed. 
+### Setup
+  
+In R studio, ensure the above libraries are installed. Run the install.R script to quickly install all libraries
+
 Ensure folder www exists and contains the file cfsan_logo_mod.png.
+
+A free NCBI developer's API key is required for making fast and sustainable metadata calls to NCBI. To apply for an API key see:
+https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
+Paste your key into line
 
 Run the app.R file in R studio. 
 
-Usage:  
+### Usage:  
 To get a brief overview of the dashboard click "Press for instructions" button on the bottom right of the dashboard. 
 
 Step 1: In the top right,  select a taxon and date. Click the blue "Run" button to dowload the selected day's data.
