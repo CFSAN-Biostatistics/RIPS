@@ -20,7 +20,7 @@ Run the app.R file in R studio.
 
 ## Usage
 ### Verifying Install:
-To verify RIPS is running successfully, click the gear icon on the bottom left ![gear_mod](./Images/gear_mod.png), from the 'Data source' drop down select 'test_set1'. Now click the blue button 'Run/Get report for newdate'.
+To verify RIPS is running successfully, click the gear icon on the bottom left ![gear_mod](./Images/gear_mod.png), from the 'Data source' drop down select 'test_set1'. Now click the blue button 'Run/Get report for newdate'![run](./Images/run.png).
 ### Quick tutorial:
 To get a brief overview of the dashboard, click the gear icon on the bottom left click "Press for instructions" button on the bottom right of the dashboard. 
 
