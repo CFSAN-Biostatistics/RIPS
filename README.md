@@ -42,7 +42,7 @@ The Focal isolates are the new isolates that triggered the Rapid Report from NCB
 
 The Neighbor isolates are isolates closely related to the focal isolates. These are ordered by the difference in age from the focal isolate.These are also ordered by the most recent environmentmal signals followed by the clinicals. 
 ### Tunable Filters
-On the right side of the under the inputs, there are four main filters that operate simultaneously. These allow you to filter the clusters from the previous step. By default, the filter is set off to "No Filter". You can change the value by nvaigating to the filter and pressing the up/down arrows or by manually entering a new value. 
+On the right side of the under the inputs, there are four main filters that operate simultaneously. These allow you to filter the clusters from the previous step. By default, the filter is set off to "No Filter". You can change the value by navigating to the filter and pressing the up/down arrows or by manually entering a new value. 
 
 Each taxon has its own preset filter definitions and change when the you press the "Run/Get report for new date" button. 
 
@@ -63,14 +63,22 @@ The default presets are:
   - Max days from focal submission: 90
   - Max Allele Difference: 10
 
-Example: For Listeria, the default filter preset mean, show all clusters that contain at least 1 environmental/other isolates and at least 3 clinical isolates and has at least one isolate within 150 from the focal submisson date and has at least one isolate with a max allele difference of 7 alleles from the focals.  
+Example: For Listeria, the default filter preset mean, show all clusters that contain at least 1 environmental/other isolates and at least 3 clinical isolates and has at least one isolate within 150 days from the focal submisson date and has at least one isolate with a max allele difference of 7 alleles from the focal isolates.   
 
 These presets can be changed by altering the values in code under "Taxon filter preset values"
 
 If you don't see data in horizontal bar graph, expand your filter criteria or quickly select "No Filter" to verify data from the Rapid Report exists. 
 
 ### Links
+These are available only after clicking on a cluster in the bar graph.
+
 Blue buttons are clickable links to searches within the NCBI PD browser.
+
+-In the "Focals" table, the links under the column "neighbor_cluster" search the NCBI PD browser for all isolates within the focal and neighbor tables using the isolate's PDT accesion number. Once at NCBI, click the link under "Matched Clusters> SNP cluster" to view the phlyogenetic tree of all matched isolates. 
+
+-In the "Neighbors" table these are the columns that contain links:
+  - "neighbor_biosample_acc": links to the isolates NCBI's BioSample page containing all the metadata.
+  - "neighbor_isolate" : Links to the NCBI PD browser search for that isolate's PDT accession number. You might need to use the horzontal scroll bar to view this.
 
 
 
