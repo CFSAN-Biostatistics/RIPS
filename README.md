@@ -74,11 +74,14 @@ These are available only after clicking on a cluster in the bar graph.
 
 Blue buttons are clickable links to searches within the NCBI PD browser.
 
--In the "Focals" table, the links under the column "neighbor_cluster" search the NCBI PD browser for all isolates within the focal and neighbor tables using the isolate's PDT accesion number. Once at NCBI, click the link under "Matched Clusters> SNP cluster" to view the phlyogenetic tree of all matched isolates. 
+-In the "Focals" table, the links under the column "neighbor_cluster" searches the NCBI PD browser for all isolates within the focal and neighbor tables using the isolate's PDT accesion number. Once at NCBI, click the link under "Matched Clusters> SNP cluster" to view the phlyogenetic tree of all matched isolates. 
 
 -In the "Neighbors" table these are the columns that contain links:
   - "neighbor_biosample_acc": links to the isolates NCBI's BioSample page containing all the metadata.
   - "neighbor_isolate" : Links to the NCBI PD browser search for that isolate's PDT accession number. You might need to use the horzontal scroll bar to view this.
+
+### Data tabs
+
 
 
 
