@@ -29,14 +29,14 @@ To get a brief overview of the dashboard, click the gear icon on the bottom left
 
 ### Step-by-Step
 **Step 1**: 
-In the top right,  select a taxon and date. Click the blue "Run" button to dowload the selected day's data.
+In the top right,  select a taxon and date. Click the blue "Run" button to dowload the selected day's data and analyze it.
 
-If a report exists for the selected day, a grey popup box will show on the bottom right, indicating the progess of the dashboard. 
+If a report exists for the selected day, a gray popup box will show on the bottom right, indicating the progess. 
 
-An ordered horizontal graph will popup on the center box containing all the clusters.
+An ordered horizontal graph will popup on the center box containing all the available clusters for that day's report.
 
 **Step 2**: 
-Select a cluster by clicking on it. 
+Select a cluster by clicking on it, the selected cluster will be highlighted on the graph and non-selected clusters will be dimmed.
 
 Details of the isolates in the cluster will display in the two seperate table below.
 
@@ -88,6 +88,9 @@ Blue buttons are clickable links to searches within the NCBI PD browser.
   - "neighbor_isolate" : Links to the NCBI PD browser search for that isolate's PDT accession number. You might need to use the horzontal scroll bar to view this.
 
 ### Data tabs
+There are two data tabs, "Main View" and "All data" located just above the Focal table. The default is "Main View"
+
+The alternative "All data" tab allows users to see pairwise comparisons between focal and neighbor isolates of all the data passing filter. This table has a search bar that seraches across all available columns. The search behaviour is default R datatable behaviour. 
 
 
 
