@@ -47,7 +47,7 @@ The Neighbor isolates are isolates closely related to the focal isolates. These 
 ### Tunable Filters
 On the right side of the under the inputs, there are four main filters that operate simultaneously. These allow you to filter the clusters from the previous step. By default, the filter is set off to "No Filter". You can change the value by navigating to the filter and pressing the up/down arrows or by manually entering a new value. 
 
-Each taxon has its own preset filter definitions and change when the you press the "Run/Get report for new date" button. 
+Each taxon has its own preset filter definitions and change when the you press the "Run/Get report for new date" button. (Besser et al., 2019; Leeper et al., 2023)
 
 The default presets are:
 - Listeria:
@@ -91,6 +91,10 @@ Blue buttons are clickable links to searches within the NCBI PD browser.
 There are two data tabs, "Main View" and "All data" located just above the Focal table. The default is "Main View"
 
 The alternative "All data" tab allows users to see pairwise comparisons between focal and neighbor isolates of all the data passing filter. This table has a search bar that seraches across all available columns. The search behaviour is default R datatable behaviour. 
+
+## References
+- Besser, J. M., Carleton, H. A., Trees, E., Stroika, S. G., Hise, K., Wise, M., & Gerner-Smidt, P. (2019). Interpretation of Whole-Genome Sequencing for Enteric Disease Surveillance and Outbreak Investigation. Foodborne Pathog Dis, 16(7), 504-512. https://doi.org/10.1089/fpd.2019.2650
+- Leeper, M. M., Tolar, B. M., Griswold, T., Vidyaprakash, E., Hise, K. B., Williams, G. M., Im, S. B., Chen, J. C., Pouseele, H., & Carleton, H. A. (2023). Evaluation of whole and core genome multilocus sequence typing allele schemes for Salmonella enterica outbreak detection in a national surveillance network, PulseNet USA. Front Microbiol, 14, 1254777. https://doi.org/10.3389/fmicb.2023.1254777 
 
 
 
