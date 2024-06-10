@@ -10,7 +10,7 @@
 `%notin%` <- Negate(`%in%`)
 
 # List all dependencies
-dependencies <- c("rvest", "httr", "Rcurl", "dplyr", "shiny", "data.table", "DT", "purr", "xml2", "ggplot2", "lubridate", "plotly", "stringr", "tidyr", "readr", "shinydashboard", "shinyWidgets", "rintrojs"
+dependencies <- c("rvest", "httr", "RCurl", "dplyr", "shiny", "data.table", "DT", "purrr", "xml2", "ggplot2", "lubridate", "plotly", "stringr", "tidyr", "readr", "shinydashboard", "shinyWidgets", "rintrojs"
 )
 
 # Check which ones are not met by using %notin%
