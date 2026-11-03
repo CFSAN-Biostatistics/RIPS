@@ -12,7 +12,8 @@ In R studio, ensure the above libraries are installed. Run the install.R script 
 ### **Required**
 1) Download the app.R, functions.R script, the 'www' folder the fine_tuned_scibert_v2 model under the releases.  
 o Ensure folder www exists and contains the file cfsan_logo_mod.png. This displays the page's graphic header.  
-o The fine_tuned_scibert_v2 folder contains the BERT model required by RIPS. Link:  https://github.com/CFSAN-Biostatistics/RIPS/releases/download/RIPS/fine_tuned_scibert_v2.zip
+o The fine_tuned_scibert_v2 folder contains the BERT model required by RIPS. Link:  https://github.com/CFSAN-Biostatistics/RIPS/releases/download/RIPS/fine_tuned_scibert_v2.zip  
+o Unzip the fine_tuned_scibert_v2.zip file
 
 3) A free NCBI developer's API key is required for making fast and sustainable metadata calls to NCBI. To apply for an API key see:
 https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
