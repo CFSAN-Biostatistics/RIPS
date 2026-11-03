@@ -1,8 +1,3 @@
-o	This repository has been archived and is no longer maintained.  
-o	The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
-o	It should not be used in production systems.  
-
-
 # RIPS: Rapid Intuitive Pathogen Surveillance
 RIPS is a dashboard for pathogen surveillance build upon NCBI's Rapid Reports. It helps detect emerging signals from WGS.
 
